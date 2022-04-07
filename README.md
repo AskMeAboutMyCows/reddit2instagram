@@ -4,3 +4,4 @@ this bot will steal memes from reddit and post them to instagram
   ^^^ instagram does not like bots and will likly ban your account please use at your own risk
   beep boop  beep
 import praw
+imprt instabot
