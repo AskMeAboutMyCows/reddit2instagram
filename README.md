@@ -8,3 +8,4 @@ instagram does not like bots and this may very well get your account banned
 I highly reccomend using a seconday account when using this software 
   
 import praw
+import instabot
