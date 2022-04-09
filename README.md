@@ -7,4 +7,4 @@ $ PLEASE NOTE USE AT YOUR OWN RISK
 instagram does not like bots and this may very well get your account banned 
 I highly reccomend using a seconday account when using this software 
   
-imort praw
+import praw
