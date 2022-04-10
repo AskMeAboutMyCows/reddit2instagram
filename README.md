@@ -9,3 +9,4 @@ I highly reccomend using a seconday account when using this software
   
 import praw
 import instabot
+import os
