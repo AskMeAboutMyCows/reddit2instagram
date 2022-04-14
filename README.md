@@ -13,4 +13,4 @@ import os
 import time
 import random
 
-these are 
+these are some of the dependencies 
